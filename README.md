@@ -9,7 +9,7 @@ Nonetheless a free and simple way to introduce concepts to young children on you
 No information is logged or transmited (and shouldn't be, not interested in it or a COPPA). 
 Developed in C# on VS Studio 2017? - developed for Windows.
 
-Asks for your kids information to help orient them to their information like DOB or how to spell their name.
+Asks for your kids info to help orient them to their information like DOB or how to spell their name. Can be bypassed by pressing start.
 
 Shapes & Music menu are backlogged WIP - feel free to code.
 Money menu has issues with $2 and Calander has issue with selection of date. 
