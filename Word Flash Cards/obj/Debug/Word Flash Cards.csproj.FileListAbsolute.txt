@@ -1,0 +1,57 @@
+C:\Users\Naters\Documents\Visual Studio 2017\Projects\Vincents First App\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.VincentsFlashCards.resources
+C:\Users\Naters\Documents\Visual Studio 2017\Projects\Vincents First App\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.Properties.Resources.resources
+C:\Users\Naters\Documents\Visual Studio 2017\Projects\Vincents First App\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.csproj.GenerateResource.Cache
+C:\Users\Naters\Documents\Visual Studio 2017\Projects\Vincents First App\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.csproj.CoreCompileInputs.cache
+C:\Users\Naters\Documents\Visual Studio 2017\Projects\Vincents First App\Word Flash Cards\Word Flash Cards\bin\Debug\Word Flash Cards.exe.config
+C:\Users\Naters\Documents\Visual Studio 2017\Projects\Vincents First App\Word Flash Cards\Word Flash Cards\bin\Debug\Word Flash Cards.exe
+C:\Users\Naters\Documents\Visual Studio 2017\Projects\Vincents First App\Word Flash Cards\Word Flash Cards\bin\Debug\Word Flash Cards.pdb
+C:\Users\Naters\Documents\Visual Studio 2017\Projects\Vincents First App\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.exe
+C:\Users\Naters\Documents\Visual Studio 2017\Projects\Vincents First App\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.pdb
+C:\Users\Naters\Documents\Visual Studio 2017\Projects\Vincents First App\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.csprojResolveAssemblyReference.cache
+C:\Users\Naters\Documents\Vincent\Word Flash Cards\Word Flash Cards\bin\Debug\Flash Cards.exe.config
+C:\Users\Naters\Documents\Vincent\Word Flash Cards\Word Flash Cards\bin\Debug\Flash Cards.exe
+C:\Users\Naters\Documents\Vincent\Word Flash Cards\Word Flash Cards\bin\Debug\Flash Cards.pdb
+C:\Users\Naters\Documents\Vincent\Word Flash Cards\Word Flash Cards\obj\Debug\Flash_Cards.ColorsForm.resources
+C:\Users\Naters\Documents\Vincent\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.CountingForm.resources
+C:\Users\Naters\Documents\Vincent\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.VincentsFlashCards.resources
+C:\Users\Naters\Documents\Vincent\Word Flash Cards\Word Flash Cards\obj\Debug\Flash_Cards.Properties.Resources.resources
+C:\Users\Naters\Documents\Vincent\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.csproj.GenerateResource.Cache
+C:\Users\Naters\Documents\Vincent\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.csproj.CoreCompileInputs.cache
+C:\Users\Naters\Documents\Vincent\Word Flash Cards\Word Flash Cards\obj\Debug\Flash Cards.exe
+C:\Users\Naters\Documents\Vincent\Word Flash Cards\Word Flash Cards\obj\Debug\Flash Cards.pdb
+O:\Resources\Personal\Word Flash Cards\Word Flash Cards\bin\Debug\Word Flash Cards.exe.config
+O:\Resources\Personal\Word Flash Cards\Word Flash Cards\bin\Debug\Word Flash Cards.exe
+O:\Resources\Personal\Word Flash Cards\Word Flash Cards\bin\Debug\Word Flash Cards.pdb
+O:\Resources\Personal\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.MathForm.resources
+O:\Resources\Personal\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.ColorsForm.resources
+O:\Resources\Personal\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.CountingForm.resources
+O:\Resources\Personal\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.MoneyForm.resources
+O:\Resources\Personal\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.Properties.Resources.resources
+O:\Resources\Personal\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.ShapesForm.resources
+O:\Resources\Personal\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.StudentForm.resources
+O:\Resources\Personal\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.FlashCardsForm.resources
+O:\Resources\Personal\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.csproj.GenerateResource.Cache
+O:\Resources\Personal\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.csproj.CoreCompileInputs.cache
+O:\Resources\Personal\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.exe
+O:\Resources\Personal\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.pdb
+O:\Resources\Personal\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.csprojResolveAssemblyReference.cache
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\bin\Debug\Word Flash Cards.exe.config
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\bin\Debug\Word Flash Cards.exe
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\bin\Debug\Word Flash Cards.pdb
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.csprojAssemblyReference.cache
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.MathForm.resources
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.ColorsForm.resources
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.CountingForm.resources
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.MoneyForm.resources
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.Properties.Resources.resources
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.ShapesForm.resources
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.StudentForm.resources
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\obj\Debug\Word_Flash_Cards.FlashCardsForm.resources
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.csproj.GenerateResource.cache
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.csproj.CoreCompileInputs.cache
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.exe
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.pdb
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\bin\Debug\Word Flash Cards.exe.manifest
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\bin\Debug\Word Flash Cards.application
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.exe.manifest
+C:\Users\Public\Programs\Word Flash Cards\Word Flash Cards\obj\Debug\Word Flash Cards.application
